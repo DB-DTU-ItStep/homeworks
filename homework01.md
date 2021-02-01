@@ -8,4 +8,4 @@
 
 Дополнительное задание:
 
-* Прочитать **Lesson 1: Understanding Core Database Concepts**
+* Прочитать **Lesson 1: Understanding Core Database Concepts** в архиве Students.zip
